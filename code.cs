@@ -1,9 +1,10 @@
-// Version 4.0.0.15
+// Version 4.0.0.16
 public namespace GitTest
 {
     public void main() 
     {
-        var version = "4.0.0.15";
+        var version = "4.0.0.16";
+        var codeSpecifiqueV16 = "Mon Code V16";
         var message = $"Version {version}";
 
         this.Show(message);
