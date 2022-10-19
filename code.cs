@@ -4,7 +4,7 @@ public namespace GitTest
     public void main() 
     {
         var version = "4.0.0.15";
-        var message = $"Version {version}";
+        var message = $"Version {version} CORRECTION BUG EN V15";
 
         this.Show(message);
         
