@@ -13,6 +13,7 @@ public namespace GitTest
         this.Show(message);
 
 		var modifSurBrancheV16 = true;
+		var modifSurBrancheV16_MODIF2 = true;
 	 
     }
 
