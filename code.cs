@@ -21,4 +21,8 @@ public namespace GitTest
     {
 
     }
+	
+	public void ModifSurBrancheMain()
+	{
+	}
 }
