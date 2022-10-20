@@ -20,7 +20,7 @@ public namespace GitTest
 	 
 		var modifSurBranche = "V16";
 		
-		var ok = "MAIN";
+		var ok = "MAIN+V16";
     }
 
     public void Show(string message)
