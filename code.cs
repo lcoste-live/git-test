@@ -11,7 +11,9 @@ public namespace GitTest
         var message = $"Version {version}";
 
         this.Show(message);
-        
+
+		var modifSurBrancheV16 = true;
+	 
     }
 
     public void Show(string message)
